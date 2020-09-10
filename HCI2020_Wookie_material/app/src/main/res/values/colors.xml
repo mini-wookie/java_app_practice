@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC107</color>          <!--기본 색상-->
+    <color name="colorPrimaryDark">#FFA000</color>      <!--기본대비색상-->
+    <color name="colorAccent">#FFE57F</color>           <!--강조색상-->
+    <color name="button">#FFD180</color>               <!--추가할 버튼의 색상-->
+</resources>

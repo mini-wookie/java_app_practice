@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Wookie_Portfolio</string>
+    <string name="name">김민욱</string>
+    <string name="e_mail">wookie@g.kmou.ac.kr</string>
+    <string name="detail">자세히 보러가기</string>
+    <string name="title_activity_scrolling">자기소개서</string>
+    <string name="large_text">
+        My Name is Minwook Kim. My English name is James, and my nickname is Wookie....I was born in Seoul in 1995. I lived in the Philippines for almost a decade... \n\n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>

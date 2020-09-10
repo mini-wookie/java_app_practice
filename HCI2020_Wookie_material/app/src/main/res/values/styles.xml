@@ -1,0 +1,25 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowActionBar">false</item>       <!--액션바 false로 안 뜨도록-->
+        <item name="windowNoTitle">true</item>          <!--노타이틀 허용으로 안 뜨도록-->
+    </style>
+
+    <!--추가할 커스텀 버튼의 스타일을 AppCompat과 지정색상으로 맞춰주는 작업-->
+    <style name="defaultButton" parent="Widget.AppCompat.Button.Colored">
+        <item name="android:colorAccent">@color/button</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
